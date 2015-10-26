@@ -1,0 +1,7 @@
+   9 molecules/methane.pdb
+  12 molecules/ethane.pdb
+  15 molecules/propane.pdb
+  20 molecules/cubane.pdb
+  21 molecules/pentane.pdb
+  30 molecules/octane.pdb
+ 107 total
